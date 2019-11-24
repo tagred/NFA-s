@@ -1,0 +1,5 @@
+Build:
+ javac States.java
+ javac EpsilonMain.java
+Run:
+ java EpsilonMain
